@@ -2,7 +2,7 @@
 The Web3 JavaScript library is one of the many ways we can interact with the Ethereum blockchain. The great thing about using the Web3 library is that you have full control not only of your private key, but also of every interaction you make with Ethereum.
 ## Checking Prerequisites
 This section, we have to prepare tools below:
-- Linux [Ubuntu 20.04](https://ubuntu.com/)
+- [Ubuntu 20.04](https://ubuntu.com/)
 - [Nodejs](https://nodejs.org/en/download/)
 - [Web3js](https://github.com/ethereum/web3.js/)
 ## Let's start
